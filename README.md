@@ -4,6 +4,9 @@
 This app kind of clone app that part of movie Beinconnect on AppStore. 
 Uses **VIP/Clean Swift** architecture. Has generic network layer and other best practices.
 
+https://github.com/ibrahim-demirci/BeinconnectCleanSwift/assets/75900229/db8fe3f3-e25c-4577-a91e-c3deca42f2de
+
+
 ## Folder Structure
 
 - **Network**: For network operations. 
