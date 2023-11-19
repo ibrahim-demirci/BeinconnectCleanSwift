@@ -4,7 +4,7 @@
 This app kind of clone app that part of movie Beinconnect on AppStore. 
 Uses **VIP/Clean Swift** architecture. Has generic network layer and other best practices.
 
-https://github.com/ibrahim-demirci/BeinconnectCleanSwift/assets/75900229/db8fe3f3-e25c-4577-a91e-c3deca42f2de
+<img width="553" alt="image" src="https://github.com/ibrahim-demirci/BeinconnectCleanSwift/assets/75900229/03bb729a-e870-4b0e-b061-1ccd70b32423">
 
 
 ## Folder Structure
@@ -22,7 +22,9 @@ https://github.com/ibrahim-demirci/BeinconnectCleanSwift/assets/75900229/db8fe3f
 ## Tech
 
 - **[Kinfisher]** - For image operations.
-- **[URLSession]** - Network operations. 
+- **[URLSession]** - Network operations.
+- **[AVPlayer]** - Video play. 
+
 
 ## Efficiency
 - App gets movies when the relevant cell arrives on the screen. So do not make unnecessary service calls.
